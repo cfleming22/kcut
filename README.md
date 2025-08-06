@@ -1,7 +1,3 @@
-Of course. Here is a cleaned-up and comprehensive version of the README, formatted in GitHub-flavored Markdown. It combines the best elements of your versions and is structured for clarity.
-
-You can copy the entire content below in a single click.
-
 ````markdown
 # Keyboard‑Shortcut Collector
 
